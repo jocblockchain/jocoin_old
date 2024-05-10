@@ -1,7 +1,7 @@
 ---
 name: "jocoin"
 suites:
-- "lucid"
+- "xenial"
 architectures:
 - "i386"
 - "amd64"
