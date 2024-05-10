@@ -1,7 +1,7 @@
 ---
 name: "jocoin"
 suites:
-- "precise"
+- "xenial"
 architectures:
 - "amd64"
 packages:
